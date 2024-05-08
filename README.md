@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Pampeers
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on game programming
-- 📫 How to reach me.. sh1na_ (discord)
-- 😄 Pronouns: he
-- ⚡ Fun fact: I have recently started studying python
-
-<!---
-Pampeers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+~ The Cube ~
+-  Pick up coins to get points 🪙
+-  If you encounter a red monster, you will lose one point, if you encounter a purple one, you will lose three points 👻
+-  To win you need get 20 points 🥇
+-  Controls: SPACE - JUMP, A,D/LEFT,RIGHT - MOVEMENT 🎮
+-  The game is fully configurable by variables at the beginning of the code ⚙️
